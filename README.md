@@ -1,5 +1,9 @@
 # 冴羽的博客
 
+## 淘系招聘
+
+淘系消费者运营前端团队招人啦，从站外投放、唤端拉新到端内承接、手淘内各种互动项目，到商品详情、店铺订单等基础链路，个个都是千万上亿流量的项目，机遇挑战多多，不妨加我了解一下呗 mqyqingfeng
+
 ## 进度
 
 JavaScript深入系列 15 篇已完结。
@@ -8,13 +12,29 @@ JavaScript专题系列 20 篇已完结。
 
 underscore 系列 8 篇已完结。
 
-ES6 系列正在发布中……
+ES6 系列 20 篇已完结。
+
+现在写起了各种单篇……
+
+React 系列还在懒惰中……
 
 ## 专栏
 
 * [掘金主页](https://juejin.im/user/58e4b9b261ff4b006b3227f4)
 * [segmentfault主页](https://segmentfault.com/u/yayu/articles)
-* 新开了 [知乎专栏](https://zhuanlan.zhihu.com/c_1042806379215601664)，欢迎关注
+* [知乎专栏](https://zhuanlan.zhihu.com/c_1042806379215601664)
+* 新开公众号 搜索「yayujs」 或者 「冴羽的JavaScript博客」
+
+## 浏览器相关
+
+1. [浏览器系列之 Cookie 和 SameSite 属性](https://github.com/mqyqingfeng/Blog/issues/157)
+
+## 面试相关
+
+1. [淘系前端校招负责人元彦直播答疑文字实录](https://github.com/mqyqingfeng/Blog/issues/167)
+2. [业务前端的困境](https://github.com/mqyqingfeng/Blog/issues/172)
+3. [前端，社招，面淘宝，指南](https://github.com/mqyqingfeng/Blog/issues/198)
+4. [前端，校招，面淘宝，指南](https://github.com/mqyqingfeng/Blog/issues/200)
 
 ## 深入系列目录
 
@@ -34,6 +54,9 @@ ES6 系列正在发布中……
 14. [JavaScript深入之创建对象的多种方式以及优缺点](https://github.com/mqyqingfeng/Blog/issues/15)
 15. [JavaScript深入之继承的多种方式以及优缺点](https://github.com/mqyqingfeng/Blog/issues/16)
 16. [JavaScript深入系列15篇正式完结！](https://github.com/mqyqingfeng/Blog/issues/17)
+17. [JavaScript深入之浮点数精度](https://github.com/mqyqingfeng/Blog/issues/155)
+18. [JavaScript深入之头疼的类型转换(上)](https://github.com/mqyqingfeng/Blog/issues/159)
+19. [JavaScript深入之头疼的类型转换(下)](https://github.com/mqyqingfeng/Blog/issues/164)
 
 ## 专题系列目录
 
@@ -58,6 +81,7 @@ ES6 系列正在发布中……
 19. [JavaScript专题之乱序](https://github.com/mqyqingfeng/Blog/issues/51)
 20. [JavaScript专题之解读 v8 排序源码](https://github.com/mqyqingfeng/Blog/issues/52)
 21. [JavaScript专题系列20篇正式完结！](https://github.com/mqyqingfeng/Blog/issues/53)
+22. [JavaScript专题之花式表示26个字母](https://github.com/mqyqingfeng/Blog/issues/166)
 
 ## underscore 系列目录
 
@@ -93,10 +117,6 @@ ES6 系列正在发布中……
 18. [ES6 系列之我们来聊聊装饰器](https://github.com/mqyqingfeng/Blog/issues/109)
 19. [ES6 系列之私有变量的实现](https://github.com/mqyqingfeng/Blog/issues/110)
 20. [ES6 完全使用手册](https://github.com/mqyqingfeng/Blog/issues/111)
-
-## 友情链接
-
-1. [如何轻松拿到淘宝前端 offer](https://juejin.im/post/5bbc54a2e51d450e5a7445b4)
 
 ## 注意
 
